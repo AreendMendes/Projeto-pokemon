@@ -2,7 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
     max-width: 1200px;
     margin: 0 auto;
-    background-image: url(/src/imagens/fundo-modo-claro.jpg);
+    background-image: url(../imagens/fundo-modo-claro.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -11,7 +11,7 @@ body{
 }
 
 body.modo-escuro{
-    background-image: url(/src/imagens/fundo-modo-escuro.jpg);
+    background-image: url(../imagens/fundo-modo-escuro.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
